@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -21,7 +22,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -49,7 +50,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -622,7 +623,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2017,15 +2018,15 @@ body {
   width: 100%;
 }
 .cid-qtcRmXzZaU {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 105px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/doctor-960x639.jpg");
 }
 .cid-qszcaQyla2 {
   padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
-  background: linear-gradient(#ffffff, #ff7f9f);
+  background: linear-gradient(#ffffff, #f49fb5);
 }
 .cid-qszcaQyla2 .carousel-control {
   background: #000;
@@ -2702,7 +2703,7 @@ body {
 }
 .cid-qv1Lzt56nT {
   padding-top: 75px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qv1Lzt56nT .mbr-text,
@@ -2712,8 +2713,29 @@ body {
 .cid-qv1Lzt56nT .mbr-text {
   text-align: left;
 }
+.cid-qvi1TMPWzn {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qvi1TMPWzn .image-block {
+  margin: auto;
+}
+.cid-qvi1TMPWzn figcaption {
+  position: relative;
+}
+.cid-qvi1TMPWzn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qvi1TMPWzn .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qv1MS3k03S {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -2761,7 +2783,7 @@ body {
   text-align: left;
 }
 .cid-qv1MbHdH0b {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -2806,8 +2828,8 @@ body {
   text-align: left;
 }
 .cid-qv1S6pAmcx {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qv1S6pAmcx .counter-container {
@@ -2839,8 +2861,8 @@ body {
   content: '✓';
 }
 .cid-qv1SzmF0Rt {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qv1SzmF0Rt .mbr-text,
@@ -2906,7 +2928,7 @@ body {
 }
 .cid-qv1TBPCgZt {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qv1TBPCgZt .counter-container {
@@ -2952,7 +2974,7 @@ body {
 }
 .cid-qrYVIZCWMf {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qrYVIZCWMf .mbr-text,
@@ -2963,7 +2985,7 @@ body {
   text-align: left;
 }
 .cid-qv1WEF2SFl {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -3007,6 +3029,27 @@ body {
 .cid-qrYWEzPMxB .mbr-text {
   text-align: left;
 }
+.cid-qvi19Q0RWt {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qvi19Q0RWt .image-block {
+  margin: auto;
+}
+.cid-qvi19Q0RWt figcaption {
+  position: relative;
+}
+.cid-qvi19Q0RWt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qvi19Q0RWt .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qv1XbiKXGg {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3044,8 +3087,8 @@ body {
   border-radius: 50%;
 }
 .cid-qrYXgLcQLy {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qrYXgLcQLy .mbr-text,
@@ -3054,6 +3097,27 @@ body {
 }
 .cid-qrYXgLcQLy .mbr-text {
   text-align: left;
+}
+.cid-qvi1fmD115 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qvi1fmD115 .image-block {
+  margin: auto;
+}
+.cid-qvi1fmD115 figcaption {
+  position: relative;
+}
+.cid-qvi1fmD115 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qvi1fmD115 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qv1YEXBTdU {
   padding-top: 60px;
@@ -3534,6 +3598,14 @@ body {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/o-breast-cancer-prevention-facebook-2000x1333.jpg");
 }
+.cid-qvhTvahYae {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qvhTvahYae .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qrZ2p6FyRU {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -3548,14 +3620,14 @@ body {
     width: 100% !important;
   }
 }
-.cid-qrZ8wWNlmT {
-  padding-top: 75px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/333913-285335374828761-1798252161-o-2000x1500.jpg");
+.cid-qvhTOtyLJu {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-qrZ8wWNlmT .mbr-text,
-.cid-qrZ8wWNlmT .mbr-section-btn {
-  color: #ffffff;
+.cid-qvhTOtyLJu .mbr-text,
+.cid-qvhTOtyLJu blockquote {
+  color: #767676;
 }
 .cid-qto4QyPPbs {
   padding-top: 60px;
@@ -5550,14 +5622,6 @@ body {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-}
-.cid-qtefsToXFm {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #dbd4b8, #ff7f9f);
-}
-.cid-qtefsToXFm .btn {
-  margin: 0 0 .5rem 0;
 }
 .cid-qto4UovSia {
   padding-top: 60px;
